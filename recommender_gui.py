@@ -46,10 +46,12 @@ class RecommenderGUI:
         ttk.Label(user_frame, text="Select User ID:", font=("Arial", 12)).pack(side='left')
         
         self.user_var = tk.StringVar()
+        user_values = [str(user) for user in self.available_users] if self.available_users else []
         user_combo = ttk.Combobox(user_frame, textvariable=self.user_var, 
-                                 values=self.available_users, width=10)
+                                 values=user_values, width=10)
         user_combo.pack(side='left', padx=10)
-        user_combo.set(self.available_users[0] if self.available_users else "")
+        user_combo.set(user_values[0] if user_values else "")
+
         
         # Method selection
         method_frame = ttk.Frame(self.root)
