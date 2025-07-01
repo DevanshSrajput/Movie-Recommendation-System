@@ -2,6 +2,12 @@
 
 _Welcome to the Movie Recommendation System—where algorithms pretend to know your taste better than you do. This collaborative filtering masterpiece will suggest movies based on what other people with questionable judgment have rated highly. It's like asking strangers on the internet what to watch, but with math!_
 
+## Demo Video
+> *Because seeing is believing (and reading is for chumps).*<br>
+**Click Below👇**
+
+[![Watch The Video](https://github.com/DevanshSrajput/Movie-Recommendation-System/blob/main/Movie-Recommendation-System.png)](https://youtu.be/etWGcDhYBWs)
+
 ## ✨ Features (That You Definitely Asked For)
 
 - **🔍 Dual Recommendation Modes:** User-based and Item-based collaborative filtering _(because one way to be wrong isn't enough)_
