@@ -8,6 +8,18 @@ _Welcome to the Movie Recommendation System—where algorithms pretend to know y
 
 [![Watch The Video](https://github.com/DevanshSrajput/Movie-Recommendation-System/blob/main/Movie-Recommendation-System.png)](https://youtu.be/etWGcDhYBWs)
 
+---
+
+## 📸 Screenshots
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="Screenshots/Dashboard.png" width="200"/>
+  <img src="Screenshots/Recommendations.png" width="200"/>
+  <img src="Screenshots/Interactions.png" width="200"/>
+  <img src="Screenshots/Analytics.png" width="200"/>
+</div>
+
+---
 ## ✨ Features (That You Definitely Asked For)
 
 - **🔍 Dual Recommendation Modes:** User-based and Item-based collaborative filtering _(because one way to be wrong isn't enough)_
